@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Information about me in case you're curious. Or creepy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a CS major attending New Mexico Tech. This is my personal website for writeups and random other blogging.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As of now I don't have much work to showcase as most of it is schoolwork that may violate academic honesty rules
+
+If you need to contact me, I can be reached at spencer@spencermerrill.com or smerrill@cs.nmt.edu
+
+Stay tuned for updates to this site to see what random (and more than likely useless) projects I am ready to present and showcase
