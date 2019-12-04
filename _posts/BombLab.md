@@ -2,6 +2,7 @@
 layout: post
 title: BombLab Writeup
 subtitle: BombLab writeup for CS222
+gh-repo: scmerrill/beautiful-jekyll
 tags: [cs222][coding][reverse engineering]
 comments: true
 ---
