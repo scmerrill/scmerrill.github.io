@@ -7,6 +7,6 @@ tags: [NSA, codebreaker, writeup, Reverse engineering, crypto, database]
 comments: true
 ---
 
-This writeup consists of my experience with the 2019 NSA Codebreaker challenge found at [https://codebreaker.ltsnet.net/home]{https://codebreaker.ltsnet.net/home)
+This writeup will consist of my experience with the 2019 NSA Codebreaker challenge found at [https://codebreaker.ltsnet.net/home]{https://codebreaker.ltsnet.net/home)
 
 ## Task 1
