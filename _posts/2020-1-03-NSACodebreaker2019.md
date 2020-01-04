@@ -10,3 +10,4 @@ comments: true
 This writeup will consist of my experience with the 2019 NSA Codebreaker challenge found at https://codebreaker.ltsnet.net/home
 
 ## Task 1
+To keep the competition fair, this writeup won't be published until the event concludes on 1/10/20
